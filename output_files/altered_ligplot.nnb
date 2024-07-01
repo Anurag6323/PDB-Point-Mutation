@@ -1,0 +1,40 @@
+ligplot.nnb output:
+
+   Atom 1               Atom 2        Distance
+GLN A  104   CD      GLN A   88   OE1    3.85
+HIS A  349   CE1     GLN A   88   NE2    3.35
+HIS A  393   O       GLN A   88   CD     3.56
+GLN A  104   NE2     GLN A   88   CD     3.19
+GLN A   97   NE2     GLN A   88   CD     3.16
+GLN A  104   NE2     GLN A   88   CG     3.22
+GLN A   97   NE2     GLN A   88   CG     3.55
+SER A   94   OG      GLN A   88   CG     3.87
+SER A   94   N       GLN A   88   CG     3.79
+PRO A   93   C       GLN A   88   CG     3.81
+SER A   94   OG      GLN A   88   CB     3.10
+SER A   94   CA      GLN A   88   CB     3.89
+SER A   94   N       GLN A   88   CB     3.58
+PRO A   93   CB      GLN A   88   CB     3.66
+PRO A   89   CD      GLN A   88   CB     3.38
+PRO A   89   N       GLN A   88   CB     3.12
+ASN A  301   CB      GLN A   88   O      3.13
+ASN A  301   CA      GLN A   88   O      3.48
+PRO A   89   CD      GLN A   88   O      3.63
+PRO A   89   C       GLN A   88   O      3.29
+PRO A   89   CA      GLN A   88   O      2.74
+SER A   94   OG      GLN A   88   C      3.52
+LEU A   90   N       GLN A   88   C      3.27
+PRO A   89   CG      GLN A   88   C      3.65
+PRO A   89   CB      GLN A   88   C      3.60
+PRO A   89   C       GLN A   88   C      3.25
+SER A   94   OG      GLN A   88   CA     3.29
+PRO A   89   CD      GLN A   88   CA     3.00
+PRO A   89   CA      GLN A   88   CA     3.83
+GLN A   88   N       THR A   87   CB     2.91
+GLN A   88   C       THR A   87   O      3.44
+GLN A   88   CA      THR A   87   O      2.75
+GLN A   88   NE2     THR A   87   C      3.83
+GLN A   88   CB      THR A   87   C      3.63
+GLN A   88   O       THR A   87   C      3.26
+GLN A   88   C       THR A   87   C      3.21
+GLN A   88   CA      THR A   87   CA     3.81

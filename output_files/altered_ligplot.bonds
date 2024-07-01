@@ -1,0 +1,137 @@
+Bond   0. Atoms  497 [ CD  GLN  104  A] ->  368 [ OE1 GLN   88  A]n E 3.8462 - HBPLUS
+Bond   1. Atoms 2462 [ CE1 HIS  349  A] ->  367 [ NE2 GLN   88  A]n E 3.3468 - HBPLUS
+Bond   2. Atoms 2802 [ O   HIS  393  A] ->  366 [ CD  GLN   88  A]n E 3.5590 - HBPLUS
+Bond   3. Atoms  498 [ NE2 GLN  104  A] ->  366 [ CD  GLN   88  A]n E 3.1933 - HBPLUS
+Bond   4. Atoms  439 [ NE2 GLN   97  A] ->  366 [ CD  GLN   88  A]n E 3.1554 - HBPLUS
+Bond   5. Atoms  498 [ NE2 GLN  104  A] ->  365 [ CG  GLN   88  A]n E 3.2215 - HBPLUS
+Bond   6. Atoms  439 [ NE2 GLN   97  A] ->  365 [ CG  GLN   88  A]n E 3.5488 - HBPLUS
+Bond   7. Atoms  414 [ OG  SER   94  A] ->  365 [ CG  GLN   88  A]n E 3.8716 - HBPLUS
+Bond   8. Atoms  409 [ N   SER   94  A] ->  365 [ CG  GLN   88  A]n E 3.7888 - HBPLUS
+Bond   9. Atoms  404 [ C   PRO   93  A] ->  365 [ CG  GLN   88  A]n E 3.8079 - HBPLUS
+Bond  10. Atoms  414 [ OG  SER   94  A] ->  364 [ CB  GLN   88  A]n E 3.1025 - HBPLUS
+Bond  11. Atoms  410 [ CA  SER   94  A] ->  364 [ CB  GLN   88  A]n E 3.8867 - HBPLUS
+Bond  12. Atoms  409 [ N   SER   94  A] ->  364 [ CB  GLN   88  A]n E 3.5824 - HBPLUS
+Bond  13. Atoms  406 [ CB  PRO   93  A] ->  364 [ CB  GLN   88  A]n E 3.6586 - HBPLUS
+Bond  14. Atoms  375 [ CD  PRO   89  A] ->  364 [ CB  GLN   88  A]n E 3.3836 - HBPLUS
+Bond  15. Atoms  369 [ N   PRO   89  A] ->  364 [ CB  GLN   88  A]n E 3.1237 - HBPLUS
+Bond  16. Atoms 2090 [ CB  ASN  301  A] ->  363 [ O   GLN   88  A]n E 3.1269 - HBPLUS
+Bond  17. Atoms 2087 [ CA  ASN  301  A] ->  363 [ O   GLN   88  A]n E 3.4791 - HBPLUS
+Bond  18. Atoms  375 [ CD  PRO   89  A] ->  363 [ O   GLN   88  A]n E 3.6324 - HBPLUS
+Bond  19. Atoms  371 [ C   PRO   89  A] ->  363 [ O   GLN   88  A]n E 3.2934 - HBPLUS
+Bond  20. Atoms  370 [ CA  PRO   89  A] ->  363 [ O   GLN   88  A]n E 2.7352 - HBPLUS
+Bond  21. Atoms  414 [ OG  SER   94  A] ->  362 [ C   GLN   88  A]n E 3.5217 - HBPLUS
+Bond  22. Atoms  376 [ N   LEU   90  A] ->  362 [ C   GLN   88  A]n E 3.2694 - HBPLUS
+Bond  23. Atoms  374 [ CG  PRO   89  A] ->  362 [ C   GLN   88  A]n E 3.6461 - HBPLUS
+Bond  24. Atoms  373 [ CB  PRO   89  A] ->  362 [ C   GLN   88  A]n E 3.6017 - HBPLUS
+Bond  25. Atoms  371 [ C   PRO   89  A] ->  362 [ C   GLN   88  A]n E 3.2533 - HBPLUS
+Bond  26. Atoms  414 [ OG  SER   94  A] ->  361 [ CA  GLN   88  A]n E 3.2853 - HBPLUS
+Bond  27. Atoms  375 [ CD  PRO   89  A] ->  361 [ CA  GLN   88  A]n E 2.9969 - HBPLUS
+Bond  28. Atoms  370 [ CA  PRO   89  A] ->  361 [ CA  GLN   88  A]n E 3.8311 - HBPLUS
+Bond  29. Atoms  360 [ N   GLN   88  A] ->  357 [ CB  THR   87  A]n E 2.9059 - HBPLUS
+Bond  30. Atoms  362 [ C   GLN   88  A] ->  356 [ O   THR   87  A]n E 3.4438 - HBPLUS
+Bond  31. Atoms  361 [ CA  GLN   88  A] ->  356 [ O   THR   87  A]n E 2.7503 - HBPLUS
+Bond  32. Atoms  367 [ NE2 GLN   88  A] ->  355 [ C   THR   87  A]n E 3.8252 - HBPLUS
+Bond  33. Atoms  364 [ CB  GLN   88  A] ->  355 [ C   THR   87  A]n E 3.6309 - HBPLUS
+Bond  34. Atoms  363 [ O   GLN   88  A] ->  355 [ C   THR   87  A]n E 3.2607 - HBPLUS
+Bond  35. Atoms  362 [ C   GLN   88  A] ->  355 [ C   THR   87  A]n E 3.2118 - HBPLUS
+Bond  36. Atoms  361 [ CA  GLN   88  A] ->  354 [ CA  THR   87  A]n E 3.8094 - HBPLUS
+Bond  37. Atoms 2478 [ N   ASP  352  A] -> 2457 [ O   HIS  349  A]H E 2.8499 - HBPLUS
+Bond  38. Atoms 2454 [ N   HIS  349  A] -> 2485 [ OD2 ASP  352  A]H E 2.7547 - HBPLUS
+Bond  39. Atoms  498 [ NE2 GLN  104  A] ->  368 [ OE1 GLN   88  A]H E 2.6212 - HBPLUS
+Bond  40. Atoms  367 [ NE2 GLN   88  A] -> 2463 [ NE2 HIS  349  A]H E 2.7966 - HBPLUS
+Bond  41. Atoms  360 [ N   GLN   88  A] ->  414 [ OG  SER   94  A]H E 2.8118 - HBPLUS
+Bond  42. Atoms  359 [ OG1 THR   87  A] ->  363 [ O   GLN   88  A]H E 3.1063 - HBPLUS
+Bond  43. Atoms 2807 [ CE1 HIS  393  A] -> 2808 [ NE2 HIS  393  A]c   1.3208 - Calc  
+Bond  44. Atoms 2806 [ ND1 HIS  393  A] -> 2807 [ CE1 HIS  393  A]c   1.3211 d Calc  
+Bond  45. Atoms 2805 [ CD2 HIS  393  A] -> 2808 [ NE2 HIS  393  A]c   1.3753 - Calc  
+Bond  46. Atoms 2804 [ CG  HIS  393  A] -> 2806 [ ND1 HIS  393  A]c   1.3815 - Calc  
+Bond  47. Atoms 2804 [ CG  HIS  393  A] -> 2805 [ CD2 HIS  393  A]c   1.3542 d Calc  
+Bond  48. Atoms 2803 [ CB  HIS  393  A] -> 2804 [ CG  HIS  393  A]cr  1.4996 - Calc  
+Bond  49. Atoms 2801 [ C   HIS  393  A] -> 2802 [ O   HIS  393  A]ce  1.2325 d Calc  
+Bond  50. Atoms 2800 [ CA  HIS  393  A] -> 2803 [ CB  HIS  393  A]cr  1.5326 - Calc  
+Bond  51. Atoms 2800 [ CA  HIS  393  A] -> 2801 [ C   HIS  393  A]cr  1.5285 - Calc  
+Bond  52. Atoms 2799 [ N   HIS  393  A] -> 2800 [ CA  HIS  393  A]ce  1.4580 - Calc  
+Bond  53. Atoms 2483 [ CG  ASP  352  A] -> 2485 [ OD2 ASP  352  A]ce  1.2427 - Calc  
+Bond  54. Atoms 2483 [ CG  ASP  352  A] -> 2484 [ OD1 ASP  352  A]ce  1.2455 d Calc  
+Bond  55. Atoms 2482 [ CB  ASP  352  A] -> 2483 [ CG  ASP  352  A]cr  1.5192 - Calc  
+Bond  56. Atoms 2480 [ C   ASP  352  A] -> 2481 [ O   ASP  352  A]ce  1.2297 d Calc  
+Bond  57. Atoms 2479 [ CA  ASP  352  A] -> 2482 [ CB  ASP  352  A]cr  1.5319 - Calc  
+Bond  58. Atoms 2479 [ CA  ASP  352  A] -> 2480 [ C   ASP  352  A]cr  1.5272 - Calc  
+Bond  59. Atoms 2478 [ N   ASP  352  A] -> 2479 [ CA  ASP  352  A]ce  1.4571 - Calc  
+Bond  60. Atoms 2462 [ CE1 HIS  349  A] -> 2463 [ NE2 HIS  349  A]c   1.3210 - Calc  
+Bond  61. Atoms 2461 [ ND1 HIS  349  A] -> 2462 [ CE1 HIS  349  A]c   1.3215 d Calc  
+Bond  62. Atoms 2460 [ CD2 HIS  349  A] -> 2463 [ NE2 HIS  349  A]c   1.3731 - Calc  
+Bond  63. Atoms 2459 [ CG  HIS  349  A] -> 2461 [ ND1 HIS  349  A]c   1.3784 - Calc  
+Bond  64. Atoms 2459 [ CG  HIS  349  A] -> 2460 [ CD2 HIS  349  A]c   1.3532 d Calc  
+Bond  65. Atoms 2458 [ CB  HIS  349  A] -> 2459 [ CG  HIS  349  A]cr  1.4966 - Calc  
+Bond  66. Atoms 2456 [ C   HIS  349  A] -> 2457 [ O   HIS  349  A]ce  1.2325 d Calc  
+Bond  67. Atoms 2455 [ CA  HIS  349  A] -> 2458 [ CB  HIS  349  A]cr  1.5328 - Calc  
+Bond  68. Atoms 2455 [ CA  HIS  349  A] -> 2456 [ C   HIS  349  A]cr  1.5338 - Calc  
+Bond  69. Atoms 2454 [ N   HIS  349  A] -> 2455 [ CA  HIS  349  A]ce  1.4582 - Calc  
+Bond  70. Atoms 2091 [ CG  ASN  301  A] -> 2093 [ OD1 ASN  301  A]ce  1.2238 d Calc  
+Bond  71. Atoms 2091 [ CG  ASN  301  A] -> 2092 [ ND2 ASN  301  A]ce  1.3304 - Calc  
+Bond  72. Atoms 2090 [ CB  ASN  301  A] -> 2091 [ CG  ASN  301  A]cr  1.5237 - Calc  
+Bond  73. Atoms 2088 [ C   ASN  301  A] -> 2089 [ O   ASN  301  A]ce  1.2283 d Calc  
+Bond  74. Atoms 2087 [ CA  ASN  301  A] -> 2090 [ CB  ASN  301  A]cr  1.5425 - Calc  
+Bond  75. Atoms 2087 [ CA  ASN  301  A] -> 2088 [ C   ASN  301  A]cr  1.5173 - Calc  
+Bond  76. Atoms 2086 [ N   ASN  301  A] -> 2087 [ CA  ASN  301  A]ce  1.4598 - Calc  
+Bond  77. Atoms  497 [ CD  GLN  104  A] ->  499 [ OE1 GLN  104  A]ce  1.2293 d Calc  
+Bond  78. Atoms  497 [ CD  GLN  104  A] ->  498 [ NE2 GLN  104  A]ce  1.3224 - Calc  
+Bond  79. Atoms  496 [ CG  GLN  104  A] ->  497 [ CD  GLN  104  A]cr  1.5051 - Calc  
+Bond  80. Atoms  495 [ CB  GLN  104  A] ->  496 [ CG  GLN  104  A]cr  1.5118 - Calc  
+Bond  81. Atoms  493 [ C   GLN  104  A] ->  494 [ O   GLN  104  A]ce  1.2294 d Calc  
+Bond  82. Atoms  492 [ CA  GLN  104  A] ->  495 [ CB  GLN  104  A]cr  1.5162 - Calc  
+Bond  83. Atoms  492 [ CA  GLN  104  A] ->  493 [ C   GLN  104  A]cr  1.5258 - Calc  
+Bond  84. Atoms  491 [ N   GLN  104  A] ->  492 [ CA  GLN  104  A]ce  1.4564 - Calc  
+Bond  85. Atoms  438 [ CD  GLN   97  A] ->  440 [ OE1 GLN   97  A]ce  1.2302 d Calc  
+Bond  86. Atoms  438 [ CD  GLN   97  A] ->  439 [ NE2 GLN   97  A]ce  1.3249 - Calc  
+Bond  87. Atoms  437 [ CG  GLN   97  A] ->  438 [ CD  GLN   97  A]cr  1.5132 - Calc  
+Bond  88. Atoms  436 [ CB  GLN   97  A] ->  437 [ CG  GLN   97  A]cr  1.5177 - Calc  
+Bond  89. Atoms  434 [ C   GLN   97  A] ->  435 [ O   GLN   97  A]ce  1.2331 d Calc  
+Bond  90. Atoms  433 [ CA  GLN   97  A] ->  436 [ CB  GLN   97  A]cr  1.5325 - Calc  
+Bond  91. Atoms  433 [ CA  GLN   97  A] ->  434 [ C   GLN   97  A]cr  1.5256 - Calc  
+Bond  92. Atoms  432 [ N   GLN   97  A] ->  433 [ CA  GLN   97  A]ce  1.4579 - Calc  
+Bond  93. Atoms  413 [ CB  SER   94  A] ->  414 [ OG  SER   94  A]ce  1.4108 - Calc  
+Bond  94. Atoms  411 [ C   SER   94  A] ->  412 [ O   SER   94  A]ce  1.2313 d Calc  
+Bond  95. Atoms  410 [ CA  SER   94  A] ->  413 [ CB  SER   94  A]cr  1.5291 - Calc  
+Bond  96. Atoms  410 [ CA  SER   94  A] ->  411 [ C   SER   94  A]cr  1.5254 - Calc  
+Bond  97. Atoms  409 [ N   SER   94  A] ->  410 [ CA  SER   94  A]ce  1.4703 - Calc  
+Bond  98. Atoms  407 [ CG  PRO   93  A] ->  408 [ CD  PRO   93  A]c   1.5133 - Calc  
+Bond  99. Atoms  406 [ CB  PRO   93  A] ->  407 [ CG  PRO   93  A]c   1.4722 - Calc  
+Bond 100. Atoms  404 [ C   PRO   93  A] ->  405 [ O   PRO   93  A]ce  1.2313 d Calc  
+Bond 101. Atoms  403 [ CA  PRO   93  A] ->  406 [ CB  PRO   93  A]c   1.5239 - Calc  
+Bond 102. Atoms  403 [ CA  PRO   93  A] ->  404 [ C   PRO   93  A]cr  1.5429 - Calc  
+Bond 103. Atoms  402 [ N   PRO   93  A] ->  408 [ CD  PRO   93  A]c   1.4762 - Calc  
+Bond 104. Atoms  402 [ N   PRO   93  A] ->  403 [ CA  PRO   93  A]c   1.4650 - Calc  
+Bond 105. Atoms  381 [ CG  LEU   90  A] ->  383 [ CD2 LEU   90  A]ce  1.5194 - Calc  
+Bond 106. Atoms  381 [ CG  LEU   90  A] ->  382 [ CD1 LEU   90  A]ce  1.5164 - Calc  
+Bond 107. Atoms  380 [ CB  LEU   90  A] ->  381 [ CG  LEU   90  A]cr  1.5330 - Calc  
+Bond 108. Atoms  378 [ C   LEU   90  A] ->  379 [ O   LEU   90  A]ce  1.2314 d Calc  
+Bond 109. Atoms  377 [ CA  LEU   90  A] ->  380 [ CB  LEU   90  A]cr  1.5306 - Calc  
+Bond 110. Atoms  377 [ CA  LEU   90  A] ->  378 [ C   LEU   90  A]cr  1.5228 - Calc  
+Bond 111. Atoms  376 [ N   LEU   90  A] ->  377 [ CA  LEU   90  A]ce  1.4656 - Calc  
+Bond 112. Atoms  374 [ CG  PRO   89  A] ->  375 [ CD  PRO   89  A]c   1.5139 - Calc  
+Bond 113. Atoms  373 [ CB  PRO   89  A] ->  374 [ CG  PRO   89  A]c   1.4918 - Calc  
+Bond 114. Atoms  371 [ C   PRO   89  A] ->  372 [ O   PRO   89  A]ce  1.2370 d Calc  
+Bond 115. Atoms  370 [ CA  PRO   89  A] ->  373 [ CB  PRO   89  A]c   1.5279 - Calc  
+Bond 116. Atoms  370 [ CA  PRO   89  A] ->  371 [ C   PRO   89  A]cr  1.5368 - Calc  
+Bond 117. Atoms  369 [ N   PRO   89  A] ->  375 [ CD  PRO   89  A]c   1.4755 - Calc  
+Bond 118. Atoms  369 [ N   PRO   89  A] ->  370 [ CA  PRO   89  A]c   1.4693 - Calc  
+Bond 119. Atoms  362 [ C   GLN   88  A] ->  369 [ N   PRO   89  A]c E 1.3439 - Calc  
+Bond 120. Atoms  357 [ CB  THR   87  A] ->  359 [ OG1 THR   87  A]ce  1.4317 - Calc  
+Bond 121. Atoms  357 [ CB  THR   87  A] ->  358 [ CG2 THR   87  A]ce  1.5182 - Calc  
+Bond 122. Atoms  355 [ C   THR   87  A] ->  360 [ N   GLN   88  A]c E 1.3272 - Calc  
+Bond 123. Atoms  355 [ C   THR   87  A] ->  356 [ O   THR   87  A]ce  1.2345 d Calc  
+Bond 124. Atoms  354 [ CA  THR   87  A] ->  357 [ CB  THR   87  A]cr  1.5547 - Calc  
+Bond 125. Atoms  354 [ CA  THR   87  A] ->  355 [ C   THR   87  A]cr  1.5293 - Calc  
+Bond 126. Atoms  353 [ N   THR   87  A] ->  354 [ CA  THR   87  A]ce  1.4550 - Calc  
+Bond 127. Atoms  368 [ OE1 GLN   88  A] ->  368 [ OE1 GLN   88  A]ce  0.0000 - CONECT
+Bond 128. Atoms  367 [ NE2 GLN   88  A] ->  368 [ OE1 GLN   88  A]c   2.2446 - CONECT
+Bond 129. Atoms  366 [ CD  GLN   88  A] ->  368 [ OE1 GLN   88  A]c   1.2330 d CONECT
+Bond 130. Atoms  366 [ CD  GLN   88  A] ->  367 [ NE2 GLN   88  A]c   1.3246 - CONECT
+Bond 131. Atoms  365 [ CG  GLN   88  A] ->  366 [ CD  GLN   88  A]cr  1.5138 - CONECT
+Bond 132. Atoms  364 [ CB  GLN   88  A] ->  365 [ CG  GLN   88  A]cr  1.5190 - CONECT
+Bond 133. Atoms  362 [ C   GLN   88  A] ->  363 [ O   GLN   88  A]ce  1.2275 d CONECT
+Bond 134. Atoms  361 [ CA  GLN   88  A] ->  364 [ CB  GLN   88  A]cr  1.5317 - CONECT
+Bond 135. Atoms  361 [ CA  GLN   88  A] ->  362 [ C   GLN   88  A]cr  1.5258 - CONECT
+Bond 136. Atoms  360 [ N   GLN   88  A] ->  361 [ CA  GLN   88  A]cr  1.4568 - CONECT

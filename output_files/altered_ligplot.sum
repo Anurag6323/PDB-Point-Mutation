@@ -1,0 +1,16 @@
+altered
+
+                                             Hydrogen bonds  Non-bonded
+               Interacting residues          M-M   S-S   M-S  contacts
+          ------------------------------     ---   ---   ---    -----  
+Residues: [GLN  104  A] -> [GLN   88  A]      0     1     0        3
+Residues: [HIS  349  A] -> [GLN   88  A]      0     1     0        1
+Residues: [HIS  393  A] -> [GLN   88  A]      0     0     0        1
+Residues: [GLN   97  A] -> [GLN   88  A]      0     0     0        2
+Residues: [SER   94  A] -> [GLN   88  A]      0     0     1        7
+Residues: [PRO   93  A] -> [GLN   88  A]      0     0     0        2
+Residues: [PRO   89  A] -> [GLN   88  A]      0     0     0       10
+Residues: [ASN  301  A] -> [GLN   88  A]      0     0     0        2
+Residues: [LEU   90  A] -> [GLN   88  A]      0     0     0        1
+Residues: [GLN   88  A] -> [THR   87  A]      0     0     1        8
+Residues: [ASP  352  A] -> [HIS  349  A]      1     0     1        0

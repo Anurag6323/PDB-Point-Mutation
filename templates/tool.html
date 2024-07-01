@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>Tool - PDB Point Mutator</title>
+    <meta property="og:title" content="Tool - PDB Point Mutator" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}" />
+  </head>
+  <body>
+    <div>
+      <link href="{{ url_for('static', filename='tool.css')}}" rel="stylesheet" />
+
+      <div class="tool-container">
+        <div class="tool-container1">
+          <div class="tool-frame2">
+            <a href="/" id="tool" class="tool-navlink">Tool</a>
+          </div>
+          <div class="tool-frame1">
+            <img
+              alt="goMailmockup1122"
+              src="./static/background.png"
+              class="tool-go-mailmockup11"
+            />
+            <span class="tool-text"><span>PDB Point Mutation Tool</span></span>
+            <span class="tool-text02">
+              <span>A tool to perform point mutations on PDB files and</span>
+              <br />
+              <span>observe the change in resulting interactions</span>
+            </span>
+            <h1 class="tool-text06">User Manual</h1>
+            <span class="tool-text07">
+              <span>
+                1) Enter the four-character PDB ID in the first field.
+              </span>
+              <br />
+              <span>
+                2) Enter the Chain ID in Uppercase in the second field.
+              </span>
+              <br />
+              <span>3) Enter the Residue Number in the third field.</span>
+              <br />
+              <span>
+                4) Enter the Amino Acid mutation in Uppercase in the fourth
+                field.
+              </span>
+              <br />
+              <span>5) Click on Submit.</span>
+              <br />
+            </span>
+            <div class="tool-container2">
+              <div class="tool-container3">
+                <span class="tool-text18">Enter the following details:</span>
+                <form name="passdata" class="tool-form" action="/" method="post">
+                  <input type="text" name="pdb_name" placeholder="PDB ID" class="tool-textinput input" />
+                  <input type="text" name="residue_num" placeholder="Residue Number" class="tool-textinput1 input"/>
+                  <input type="text" name="mutation" placeholder="Mutation Required" class="tool-textinput2 input"/>
+                  <input type="text" name="chain_name" placeholder="Chain ID" class="tool-textinput3 input"/>
+                  <input type="submit" value="Submit" class="tool-navlink1 button"/>
+                  <label class="tool-text19">PDB ID:&nbsp;</label>
+                  <label class="tool-text20">Chain ID:&nbsp;</label>
+                  <label class="tool-text21">Residue Number:&nbsp;</label>
+                  <label class="tool-text22">AA Mutation Required:</label>
+                </form>
+              </div>
+              <div class="tool-container4">
+                <span class="tool-text23">
+                  <span>
+                    This tool has been developed using PyMol and LigPlot+
+                    Software.
+                  </span>
+                  <br />
+                  <span>The platform allows the user to&nbsp;</span>
+                  <span>
+                    perform point mutations on PDB files by specifying the
+                  </span>
+                  <br />
+                  <span>
+                    PDB ID, Chain ID, Residue Number, and the mutation
+                    required.&nbsp;
+                  </span>
+                  <br />
+                  <span>
+                    The result page displays an image of the imported PDB and
+                    residue before and after mutation.
+                  </span>
+                  <br />
+                  <span>
+                    It also summarizes the changes in interactions produced
+                    between the mutated residue.
+                  </span>
+                  <br />
+                </span>
+                <h1 class="tool-text35">About the Tool</h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
